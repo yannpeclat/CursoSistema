@@ -55,17 +55,12 @@ javac -d bin src/application/Program.java
 
 ## 🌟 Futuras melhorias
 
-Salvar os dados em arquivos .txt ou .csv
-
-Integração com banco de dados
-
-Interface gráfica com JavaFX ou Swing
-
-Testes com JUnit
-
-Cadastro de professores e disciplinas vinculadas
-
-Separação por períodos acadêmicos ou turmas
+- Salvar os dados em arquivos .txt ou .csv
+- Integração com banco de dados
+- Interface gráfica com JavaFX ou Swing
+- Testes com JUnit
+- Cadastro de professores e disciplinas vinculadas
+- Separação por períodos acadêmicos ou turmas
 
 ## 📌 Acesse este projeto no GitHub
 
